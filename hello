@@ -1,0 +1,7 @@
+import tkinter as tk
+root = tk.Tk()
+
+root.title('demo1')
+root.geomotry('300x300')
+
+root.mainloop()
